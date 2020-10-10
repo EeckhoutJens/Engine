@@ -2,7 +2,7 @@
 #include "Minigin.h"
 #include <chrono>
 #include <thread>
-#include "vld.h"
+//#include "vld.h"
 #include "InputManager.h"
 #include "SceneManager.h"
 #include "Renderer.h"

@@ -1,0 +1,2 @@
+C:\Users\jense\Documents\GitHub\Engine\x64\Debug\Minigin.pdb
+C:\Users\jense\Documents\GitHub\Engine\Minigin\x64\Debug\Minigin.pdb

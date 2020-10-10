@@ -1,7 +1,6 @@
 #pragma comment(lib,"xinput.lib")
 
 // ReSharper disable once CppUnusedIncludeDirective
-#include <vld.h>
 #include "Minigin.h"
 #include "SceneManager.h"
 #include "ResourceManager.h"
